@@ -26,6 +26,6 @@ Use the following steps to utilize the script:
 const { TheDaysinYear } = require('./finddates');
 
 // Call the function with the desired year and day of the week
-console.log(TheDaysinYear(1402, 0)); // Output: شنبه
-console.log(TheDaysinYear(1402, 4)); // Output: چهار شنبه
-console.log(TheDaysinYear(1402, 7)); // Output: جمعه
+console.log(TheDaysinYear(1402, 0)); // Output: لیست تاریخ های شنبه
+console.log(TheDaysinYear(1402, 4)); // Output: لیست تاریخ های چهار شنبه
+console.log(TheDaysinYear(1402, 7)); // Output: لیست تاریخ های جمعه
